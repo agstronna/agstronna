@@ -52,7 +52,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/agistiaronna/"><img src="https://img.shields.io/badge/-Evi%20Afiyatus%20Solihah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:agistia.aniqa@gmail.com"><img src="https://img.shields.io/badge/-eviafiyatuss@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/agistronna"><img src="https://img.shields.io/badge/-@eviafiyatus_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/agistiaronna/"><img src="https://img.shields.io/badge/-Agistia%20Ronna%20Aniqa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:agistia.aniqa@gmail.com"><img src="https://img.shields.io/badge/-agistia.aniqa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/agistronna"><img src="https://img.shields.io/badge/-@agistronna-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
