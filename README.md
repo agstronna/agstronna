@@ -2,14 +2,6 @@
 
 🎓 Lulusan S1 Teknik Komputer, Universitas Pendidikan Indonesia, dengan peminatan *Intelligent Device Development*. Tertarik untuk berkarier pada posisi yang berfokus pada training model AI dan pengembangan aplikasi.
 
-🧠 Areas of Interest: 
-- Artificial Intelligence & Machine Learning
-- Deep Learning & Computer Vision
-- Natural Language Processing
-- AI Model Development & Deployment
-- Data Processing & Analytics
-- Web & Android Application Development
-
 📫 Email: agistia.aniqa@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
