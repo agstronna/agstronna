@@ -1,116 +1,153 @@
 
-# Hi, I'm Agistia Ronna Aniqa! 👋
+<div align="center">
 
-### Computer Engineering Graduate | AI/ML Enthusiast | Data & Software Development
+# Agistia Ronna Aniqa
 
-I'm a Computer Engineering graduate from **Universitas Pendidikan Indonesia** with a strong interest in building intelligent solutions through technology. My interests span **Artificial Intelligence, Machine Learning, Data Analytics, Data Scientist, Data Engineering, and Web & Android Application Development**.
+### Computer Engineering Graduate
 
-I enjoy exploring data, developing machine learning models, building data pipelines, and creating applications that address real-world problems. I have hands-on experience through academic projects, professional training, and an internship as a Full Stack Developer.
+**AI & Machine Learning · Data Analytics · Data Engineering · Software Development**
 
-- 🎓 **Education:** Bachelor's Degree in Computer Engineering, Universitas Pendidikan Indonesia
-- 🏅 **Academic Achievement:** GPA 3.86/4.00 — Cum Laude
-- 💻 **Experience:** Full Stack Developer Intern
-- 🌱 **Currently Exploring:** AI/ML, Data Analytics, Data Scientist, Data Engineering, and Application Development
-- 📫 **Email:** agistia.aniqa@gmail.com
+Building practical solutions through technology, data, and continuous learning.
 
----
+[LinkedIn](https://www.linkedin.com/in/agistiaronna/) · [Email](mailto:agistia.aniqa@gmail.com) · [GitHub](https://github.com/agstronna)
 
-## 🎯 Areas of Interest
-
-| Area | Focus |
-|---|---|
-| 🤖 **AI & Machine Learning** | Model development, data preprocessing, classification, clustering, computer vision, predictive analytics, and recommendation systems|
-| 📊 **Data Analytics & Data Science** | Data cleaning, EDA, statistical analysis, data visualization, and insight generation |
-| ⚙️ **Data Engineering** | ETL pipelines, data transformation, data validation, and database management |
-| 🌐 **Application Development** | Web development, Android application development, backend integration, and API development |
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### Programming Languages
+Hello! I'm **Agistia Ronna Aniqa**, a Computer Engineering graduate from **Universitas Pendidikan Indonesia (UPI)** with a strong interest in technology, data, and intelligent systems.
+
+My academic background and project experience have allowed me to explore various areas, including machine learning, data analysis, data processing, and application development. I enjoy learning new technologies and applying them to develop useful and meaningful solutions.
+
+- 🎓 Bachelor's Degree in Computer Engineering — UPI
+- 🏅 GPA: **3.86/4.00 (Cum Laude)**
+- 💼 Full Stack Developer Intern
+- 📍 Indonesia
+
+## Areas of Interest
+
+<table>
+<tr>
+<td width="50%">
+
+### Artificial Intelligence & ML
+Machine learning, deep learning, computer vision, and predictive modeling.
+
+</td>
+<td width="50%">
+
+### Data Analytics & Science
+Data exploration, preprocessing, statistical analysis, and visualization.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Data Engineering
+ETL pipelines, data transformation, integration, and database management.
+
+</td>
+<td width="50%">
+
+### Software Development
+Web applications, Android development, backend systems, and UI implementation.
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### AI & Machine Learning
+**AI, Machine Learning & Data**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white)
-
-### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Frameworks & Visualization**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### Web & Application Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+**Database & Tools**
 
-### Databases & Development Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
+## Selected Projects
 
-## 🚀 Featured Projects
+A selection of my academic, research, and development projects.
 
-### 🤖 AI & Machine Learning
-- **Tuna Freshness Classification & Shelf-Life Estimation** — Developed deep learning models using YOLOv8 and MobileNetV3 for fish organ detection, freshness classification, and shelf-life estimation.
-- **Diabetes Risk Prediction** — Developed machine learning models using Random Forest, XGBoost, and LightGBM with hyperparameter tuning.
-- **Bank Transaction Clustering & Fraud Detection** — Applied K-Means clustering and multiple classification algorithms to analyze transaction behavior and identify potential fraud patterns.
+| Project | Focus |
+|:--|:--|
+| **Tuna Freshness Classification & Shelf-Life Estimation** | AI / Computer Vision · Undergraduate Thesis |
+| Diabetes Risk Prediction | Machine Learning |
+| YOLOv8 Speed Bump Detection | Object Detection |
+| Bank Transaction Clustering & Fraud Detection | Data Science |
+| Bike Sharing Data Analysis | Data Analytics |
+| Modular ETL for Web Data | Data Engineering |
+| Sentiment Analysis of ChatGPT Reviews | Natural Language Processing |
+| Tourist Attraction Recommendation System | Recommendation System |
 
-### 📊 Data Analytics & Data Engineering
-- **Bike Sharing Data Analysis** — Performed exploratory data analysis to identify usage patterns based on time, season, and weather, and developed an interactive Streamlit dashboard.
-- **Modular ETL for Web Data** — Built an ETL pipeline to extract, clean, transform, and store data in CSV, PostgreSQL, and Google Sheets.
+*Explore my repositories for project details, documentation, and implementation.*
 
-### 🌐 Application Development
-- **Web-Based Boarding House Booking System** — Contributed to the development of a web-based booking system and Growth Program features using Laravel during my internship.
-- **Android-Based Tuna Freshness Detection Application** — Integrated deep learning models into an Android application for tuna freshness classification and shelf-life estimation.
+## Experience
 
----
+**Full Stack Developer Intern**  
+PT Kosan Kampus Propertindo | September – December 2025
 
-## 📈 GitHub Statistics
+- Developed and improved web application features using Laravel and PHP.
+- Managed MySQL databases and performed application maintenance.
+- Contributed to the development of a boarding house booking system.
+- Collaborated with the development team using Git and GitHub.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=agstronna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Agistia's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agstronna&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+## GitHub Overview
 
----
+<div align="center">
 
-## 🤝 Let's Connect!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agstronna&show_icons=true&hide_border=true&rank_icon=github)
 
-I'm open to opportunities, collaborations, and discussions related to AI/ML, data, and software development.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agstronna&layout=compact&hide_border=true)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/agistiaronna/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:agistia.aniqa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/agistronna">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+</div>
 
----
+## Let's Connect
 
-⭐ *Thanks for visiting my GitHub profile!*
+I'm open to learning opportunities, collaborations, and professional connections in technology and data-related fields.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agistiaronna/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:agistia.aniqa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agstronna)
+
+</div>
+
+<div align="center">
+
+*Learning, building, and growing through technology.*
+
+</div>
