@@ -19,7 +19,7 @@ I enjoy exploring data, developing machine learning models, building data pipeli
 
 | Area | Focus |
 |---|---|
-| 🤖 **AI & Machine Learning** | Model development, data preprocessing, classification, clustering, computer vision, and predictive analytics |
+| 🤖 **AI & Machine Learning** | Model development, data preprocessing, classification, clustering, computer vision, predictive analytics, and recommendation systems|
 | 📊 **Data Analytics & Data Science** | Data cleaning, EDA, statistical analysis, data visualization, and insight generation |
 | ⚙️ **Data Engineering** | ETL pipelines, data transformation, data validation, and database management |
 | 🌐 **Application Development** | Web development, Android application development, backend integration, and API development |
