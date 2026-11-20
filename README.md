@@ -5,7 +5,7 @@
 
 ### Computer Engineering Graduate
 
-**AI & Machine Learning · Data Analytics · Data Engineering · Software Development**
+**AI & Machine Learning · Data Analytics · Data Science · Software Development**
 
 Building practical solutions through technology, data, and continuous learning.
 
